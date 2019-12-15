@@ -1,5 +1,5 @@
 {
-  "name": "coarse-cli",
+  "name": "coarsecli",
   "version": "1.0.0",
   "description": "cli tool for https://github.com/ismay/coarse",
   "main": "index.js",
