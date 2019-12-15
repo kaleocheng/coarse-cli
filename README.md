@@ -4,13 +4,13 @@ Cli for https://github.com/ismay/coarse which convert svg file to sketch with [R
 
 ## usage
 ```bash
-$ npm install coarsecli
+$ npm install @kaleocheng/coarse-cli
 
 # convert one svg
-$ coarse-cli input.svg output.svg
+$ coarse input.svg output.svg
 
 # convert all svg files in folder
-$ coarse-cli --source-dir input/ --target-dir output/
+$ coarse --source-dir input/ --target-dir output/
 ```
 
 ## example
