@@ -1,0 +1,26 @@
+{
+  "name": "coarse-cli",
+  "version": "1.0.0",
+  "description": "cli tool for https://github.com/ismay/coarse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleocheng/coarse-cli.git"
+  },
+  "bin": {
+    "coarse-cli": "index.js" 
+  },
+  "author": "Kaleo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaleocheng/coarse-cli/issues"
+  },
+  "homepage": "https://github.com/kaleocheng/coarse-cli#readme",
+  "dependencies": {
+    "coarse": "^0.8.3",
+    "commander": "^4.0.1"
+  }
+}
